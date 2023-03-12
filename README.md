@@ -17,17 +17,8 @@ Overall, For Her is designed to provide women with a sense of security and comfo
 
 App Layout in details:
 Home Screen:
-                                                                
-                                                                               
-                                                                       Tap on “Get Location” to get user’s current location 
 
-                                                                        Access Nearby “Police Stations”, “Hospitals”,                     
-                                                                        “Pharmacy” etc. with just one tap.
-
-
-                                                                          
-                                                                        Speed dial emergency services like “Police”,                                                  “                                                                      “Ambulance”, “Fire Brigade”, etc.
-
+![image](https://user-images.githubusercontent.com/98613922/224545889-a2702609-169c-41b3-bd6a-7381f5624922.png)
 
 
 The Home Screen helps you to get your “current location”, it also helps you to find the nearby “Police Stations”, “Hospitals”, “Pharmacy”, “Bus Stops” near your current location.
@@ -36,15 +27,8 @@ In case of emergency, you can access the speed dials for calling “Police”, �
 
 SOS Screen:
                                                                 
-                                                                       Call your trusted contacts directly from the app       
-                                                                       Swipe tile to add contact to SOS messaging 
+![image](https://user-images.githubusercontent.com/98613922/224545910-6787d64b-e18b-4632-ab1c-9bb8f9afefa3.png)
 
-                                                                                            
-                                                                       
-                                                                                           
-
-                                                                        Add a SOS message    
-                                                                        Users can also include their “Current Location”                                                  “                                                                      while sending the SOS message
 
 
 
