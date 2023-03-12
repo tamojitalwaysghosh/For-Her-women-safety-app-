@@ -50,7 +50,9 @@ The user can choose if she/he wants to include their current location or not.
 Technologies used-
 
 Flutter (an open-source framework to build cross-platform applications)
+
 Google Firebase (for user authentication)
+
 Hive Database (a NoSQL database for accessing local storage)
 
 Some Flutter packages-
