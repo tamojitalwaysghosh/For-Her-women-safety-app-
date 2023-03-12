@@ -50,9 +50,7 @@ The user can choose if she/he wants to include their current location or not.
 Technologies used-
 
 Flutter (an open-source framework to build cross-platform applications)
-
 Google Firebase (for user authentication)
-
 Hive Database (a NoSQL database for accessing local storage)
 
 Some Flutter packages-
@@ -61,12 +59,12 @@ Some Flutter packages-
 •	Flutter_speed_dial (to access speed dials inside the app)
 
 
+
 Mentored By-
 
 Prof. Debashis Chakraborty 
 Department of Computer Science & Engineering
 (Assistant Professor, St.Thomas’ College of Engineering & Technology, Kolkata)
-
 
 
 Developed By-
