@@ -23,6 +23,8 @@ https://user-images.githubusercontent.com/98613922/224546269-48c8216d-0044-4980-
 
 
 App Layout in details:
+
+
 Home Screen:
 
 ![image](https://user-images.githubusercontent.com/98613922/224545889-a2702609-169c-41b3-bd6a-7381f5624922.png)
@@ -44,23 +46,39 @@ Swipe the contacts tile to add or delete it. Add the contacts to send SOS messag
 Android do not allow direct messaging through the app, so after pressing the “SEND” button the user would be directed to their default messaging app (along with their saved message, contacts, and current location (if enabled)) to send the message.
 The user can choose if she/he wants to include their current location or not. 
 
+
 Technologies used-
+
+
 Flutter (an open-source framework to build cross-platform applications)
+
 Google Firebase (for user authentication)
+
 Hive Database (a NoSQL database for accessing local storage)
+
 Some Flutter packages-
+
 •	GeoLocater (for getting user’s current location)
+
 •	Flutter_sms (for sending sos sms to user’s trusted contacts)
+
 •	Flutter_speed_dial (to access speed dials inside the app)
 
 
 Mentored By-
+
 Prof. Debashis Chakraborty 
+
 Department of Computer Science & Engineering
+
 (Assistant Professor, St.Thomas’ College of Engineering & Technology, Kolkata)
 
+
 Developed By-
+
 Tamojit Ghosh 
+
 Department of Computer Science & Engineering
+
 (student, St.Thomas’ College of Engineering & Technology, Kolkata)
  
