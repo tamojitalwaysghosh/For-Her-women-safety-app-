@@ -72,4 +72,7 @@ Developed By-
 Tamojit Ghosh 
 Department of Computer Science & Engineering
 (student, St.Thomas’ College of Engineering & Technology, Kolkata)
- 
+
+Vieky Kayal
+Department of Information Technology
+(student, St.Thomas’ College of Engineering & Technology, Kolkata)
