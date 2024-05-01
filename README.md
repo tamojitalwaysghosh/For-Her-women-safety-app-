@@ -20,8 +20,6 @@ Demo Video:
 https://user-images.githubusercontent.com/98613922/224546269-48c8216d-0044-4980-a30a-af0199551efc.mp4
 
 
-
-
 App Layout in details:
 
 
@@ -47,6 +45,19 @@ Android do not allow direct messaging through the app, so after pressing the “
 The user can choose if she/he wants to include their current location or not. 
 
 
+
+#####UPDATED APP SNIPPETS####:
+
+![1](https://github.com/tamojitalwaysghosh/For-Her-women-safety-app-/assets/98613922/38576fe8-f216-4050-bd69-9ffab43e3883)
+![2](https://github.com/tamojitalwaysghosh/For-Her-women-safety-app-/assets/98613922/a1ed768f-4782-4597-9082-f14f84598cf6)
+![3](https://github.com/tamojitalwaysghosh/For-Her-women-safety-app-/assets/98613922/59e143b0-2b14-4353-a483-9ef93b8bf726)
+![4](https://github.com/tamojitalwaysghosh/For-Her-women-safety-app-/assets/98613922/fe5d728d-f554-4036-a1af-4b50f0591717)
+![5](https://github.com/tamojitalwaysghosh/For-Her-women-safety-app-/assets/98613922/89381c12-94e7-4450-b521-85a119343088)
+![6](https://github.com/tamojitalwaysghosh/For-Her-women-safety-app-/assets/98613922/f8bf0af3-fcd9-4c25-ab1f-b2465fb87d27)
+![7](https://github.com/tamojitalwaysghosh/For-Her-women-safety-app-/assets/98613922/33c1c6aa-53c6-4d80-b45e-ced1699ee41a)
+
+
+
 Technologies used-
 
 Flutter (an open-source framework to build cross-platform applications)
@@ -57,22 +68,3 @@ Some Flutter packages-
 •	GeoLocater (for getting user’s current location)
 •	Flutter_sms (for sending sos sms to user’s trusted contacts)
 •	Flutter_speed_dial (to access speed dials inside the app)
-
-
-
-Mentored By-
-
-Prof. Debashis Chakraborty 
-Department of Computer Science & Engineering
-(Assistant Professor, St.Thomas’ College of Engineering & Technology, Kolkata)
-
-
-Developed By-
-
-Tamojit Ghosh 
-Department of Computer Science & Engineering
-(student, St.Thomas’ College of Engineering & Technology, Kolkata)
-
-Vieky Kayal
-Department of Information Technology
-(student, St.Thomas’ College of Engineering & Technology, Kolkata)
